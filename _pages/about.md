@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Marius and currently doing an interdisciplinary PhD at the University of Siegen being part of two research groups (Computer Vision and Ubiquitous Computing). My research mainly focuses on combining both (wearable) sensor and video data in the context of Human Activity Recognition (HAR).
+Hi, my name is Marius and am currently doing an interdisciplinary PhD at the University of Siegen being part of two research groups (Computer Vision and Ubiquitous Computing). My research mainly focuses on combining both (wearable) sensor and video data in the context of Human Activity Recognition (HAR).
 
 
 I joined both the Computer Vision group headed by [Prof. Dr. Michael Moeller](https://www.vsa.informatik.uni-siegen.de/en/moeller-michael) and the Ubiquitous Computing group headed by [Prof. Dr. Kristof Van Laerhoven](https://ubicomp.eti.uni-siegen.de/home/team/kristof.html?lang=de) at the University of Siegen in February 2021. I received my Bachelor's degree in Information Systems from the University of Cologne in 2017 and my Master's degree in Data Science from the University of Mannheim in 2020. I wrote my master thesis on "Multiple Object Tracking by Link Prediction using Graph Convolutional Networks" under the supervision of [Prof. Dr. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/).
