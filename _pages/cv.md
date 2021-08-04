@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.Sc. in Information Systems, University of Cologne, 2017
 * M.Sc. in Data Science, University of Mannheim, 2020
 * Ph.D in Computer Vision & Ubiquitous Computing, University of Siegen, 2024 (expected)
 
-Work experience
+## Work experience
 ======
 * 05/2019 - 11/2019: Working Student in Natural Language Processing
   * SAP SE, 69190 Walldorf
