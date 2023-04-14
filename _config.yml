@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Marius Bock"
 title_separator          : "-"
 name                     : &name "Marius Bock"
 description              : &description "PhD student in Ubiquitous Computing and Computer Vision at the University of Siegen."
@@ -86,9 +86,9 @@ author:
   location         : "University of Siegen, Germany"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "marius.bock@uni-siegen.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=7HPBugEAAAAJ&hl=en"
+  email            :
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,10 +103,10 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "marius-bock"
-  orcid            :
+  orcid            : "https://orcid.org/0000-0001-7401-928X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
@@ -175,16 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  teaching:
     output: true
     permalink: /:collection/:path/
 

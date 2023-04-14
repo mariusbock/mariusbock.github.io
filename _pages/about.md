@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marius Bock"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Marius and currently doing an interdisciplinary PhD at the University of Siegen being part of two research groups (Computer Vision and Ubiquitous Computing). My research mainly focuses on combining both (wearable) sensor and video data in the context of Human Activity Recognition (HAR).
 
+I am currently doing a PhD at both the Computer Vision group headed by [Prof. Dr. Michael Moeller](https://www.vsa.informatik.uni-siegen.de/en/moeller-michael) and the Ubiquitous Computing group headed by [Prof. Dr. Kristof Van Laerhoven](https://ubicomp.eti.uni-siegen.de/home/team/kristof.html?lang=de) at the University of Siegen.
+My research interest lie in both wearable and video Human Activity Recognition as well as the combination of both.
 
-I joined both the Computer Vision group headed by [Prof. Dr. Michael Moeller](https://www.vsa.informatik.uni-siegen.de/en/moeller-michael) and the Ubiquitous Computing group headed by [Prof. Dr. Kristof Van Laerhoven](https://ubicomp.eti.uni-siegen.de/home/team/kristof.html?lang=de) at the University of Siegen in February 2021. I received my Bachelor's degree in Information Systems from the University of Cologne in 2017 and my Master's degree in Data Science from the University of Mannheim in 2020. I wrote my master thesis on "Multiple Object Tracking by Link Prediction using Graph Convolutional Networks" under the supervision of [Prof. Dr. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/).
+Before joining the groups in Siegen, I received my bachelor's degree (with distinction) in Information Systems in from the University of Cologne. In 2017 I was awarded the DAAD RISE worldwide scholarship to spent three months at the Yale University under the supervision of [Prof. Dr. Jakub Szefer](https://seas.yale.edu/faculty-research/faculty-directory/jakub-szefer) and [Prof. Dr. Ali Sunyaev](https://www.aifb.kit.edu/web/Ali_Sunyaev/en). In 2020 I received my master’s degree (with honors) in Data Science from the University of Mannheim. 
 
+# News
 
-In 2015 I was awarded the Dean's list - Award for excellent students, being among the top 5% of my bachelor studies. Later that year, as part of my bachelor studies, I did an exchange semester at the University of Seoul in South Korea.
-
-
-In 2016 I did a 6-month internship as a business analyst/ developer at the SAP Innovation Center Silicon Valley in Brisbane Australia. During my internship I voluntarily in Kaggle competitions and was invited to present my findings in front of the SAP Innovation Center Silicon Valley staff. 
-
-
-In 2017 I received the DAAD RISE worldwide scholarship to spend 3 months as a research intern at the Yale University in the US under the co-supervision of [Prof. Dr. Jakub Szefer](https://seas.yale.edu/faculty-research/faculty-directory/jakub-szefer) and [Prof. Dr. Ali Sunyaev](https://www.aifb.kit.edu/web/Ali_Sunyaev/en).
-
-
-In 2019, being part of team of 8 other Data Science students, my team and I finished top 10 of 150 teams from 28 countries in the Data Mining Cup 2019 and were invited to present our findings in Berlin.
-
-
-In 2021 I was awarded the House of Young Talents - Young Acadamy 2021 PhD scholarship and ZESS Stipend Award 2021.
+- Feb 2023: I was selected to be Student Volunteer Chair at the UbiComp/ISWC 2023 in Cancun Mexico!
+- Sep 2022: Our journal article "Investigating (Re)current state-of-the-art in Human Activity Recognition Datasets" was published in Frontiers in Computer Science!
+- Jan 2022: Our workshop paper "A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR" has been accepted at PerCom 2022.
+- Sep 2021: Our paper "Improving Deep Learning for HAR with shallow LSTMs" was awarded the best paper award at UbiComp/ ISWC 2021!
+- Aug 2021: Our paper "Improving Deep Learning for HAR with shallow LSTMs" was was accepted at UbiComp/ ISWC 2021!
+- Aug 2021: Our paper "Tutorial on Deep Learning for HAR" was was accepted at UbiComp/ ISWC 2021!
