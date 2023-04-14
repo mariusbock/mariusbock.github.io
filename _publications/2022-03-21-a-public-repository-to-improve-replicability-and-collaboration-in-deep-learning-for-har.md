@@ -5,7 +5,7 @@ permalink: /publications/2022-03-21-a-public-repository-to-improve-replicability
 date: 2022-03-21
 venue: 'IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)'
 paperurl: 'https://doi.org/10.1109/PerComWorkshops53856.2022.9767436'
-teaser: /previews/grokking.png
+teaser: /previews/grokking_teaser.png
 authors: 'Lloyd Pellatt, <b>Marius Bock</b>, Daniel Roggen, Kristof Van Laerhoven'
 categories: [wearable activity recognition]
 bibtex: true

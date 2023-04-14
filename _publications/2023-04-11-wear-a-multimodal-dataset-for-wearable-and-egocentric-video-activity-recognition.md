@@ -5,7 +5,7 @@ permalink: /publications/2023-04-11-wear-a-multimodal-dataset-for-wearable-and-e
 date: 2023-04-11
 authors: '<b>Marius Bock</b>, Michael Moeller, Kristof Van Laerhoven, Hilde Kuehne'
 bibtex: true
-teaser: previews/wear.png
+teaser: previews/wear_teaser.png
 arxiv: 'https://arxiv.org/abs/2304.05088'
 categories: [wearable activity recognition, video activity recognition, datasets]
 code: https://mariusbock.github.io/wear/

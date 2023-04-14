@@ -5,7 +5,7 @@ permalink: /publications/2022-09-30-investigating-recurrent-state-of-the-art-in-
 date: 2022-09-30
 venue: 'Frontiers in Computer Science'
 paperurl: 'https://doi.org/10.3389/fcomp.2022.924954'
-teaser: /previews/recurrent.png
+teaser: /previews/recurrent_teaser.png
 authors: '<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven'
 categories: [wearable activity recognition]
 bibtex: true

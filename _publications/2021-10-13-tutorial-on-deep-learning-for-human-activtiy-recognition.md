@@ -8,7 +8,7 @@ venue: 'ACM International Symposium on Wearable Computers (ISWC)'
 paperurl: 'https://arxiv.org/abs/2110.06663'
 authors: '<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven'
 bibtex: true
-teaser: /previews/dl-arc.png
+teaser: /previews/dl-arc_teaser.png
 arxiv: 'https://arxiv.org/abs/2110.06663'
 categories: [wearable activity recognition]
 code: https://mariusbock.github.io/dl-for-har
