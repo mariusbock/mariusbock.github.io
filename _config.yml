@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marius Bock"
 title_separator          : "-"
 name                     : &name "Marius Bock"
-description              : &description "PhD student in Ubiquitous Computing and Computer Vision at the University of Siegen."
+description              : &description "PhD student in Ubiquitous Computing and Computer Vision."
 url                      : https://mariusbock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariusbock/mariusbock.github.io"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=7HPBugEAAAAJ&hl=en"
-  email            :
-  researchgate     :
+  email            : "marius.bock@uni-siegen.de"
+  researchgate     : "https://www.researchgate.net/profile/Marius-Bock"
   uri              :
   bitbucket        :
   codepen          :

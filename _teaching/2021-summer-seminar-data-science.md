@@ -3,7 +3,7 @@ title: "Seminar Data Science (Summer 2021)"
 collection: teaching
 type: "Undergraduate & Graduate course"
 permalink: /teaching/2021-summer-seminar-data-science
-venue: "University of Siegen, Ubiquitous Computing"
+venue: "University of Siegen"
 date: 2021-01-01
 location: "Siegen, Germany"
 ---
