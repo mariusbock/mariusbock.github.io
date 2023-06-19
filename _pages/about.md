@@ -18,6 +18,7 @@ P.S.: Thanks to my [Zorah](https://zorah.github.io) for showing me this cool lay
 
 # News
 
+- Jun 2023: Introducing: the WEAR dataset! An outdoor sports dataset for multimodal activity recogntion. Check it out [here](https://mariusbock.github.io/wear/)
 - Feb 2023: I have been selected to be Student Volunteer Chair at the UbiComp/ISWC 2023 in Cancun, Mexico!
 - Sep 2022: Our journal article "Investigating (Re)current state-of-the-art in Human Activity Recognition Datasets" has been published in Frontiers in Computer Science!
 - Jan 2022: Our workshop paper "A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR" has been accepted at PerCom 2022.

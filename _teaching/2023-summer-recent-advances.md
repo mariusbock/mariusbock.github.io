@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Siegen, Germany"
 ---
 
-Supervision of a team of students applying Deep Learning on Human Activity Recognition. The students were given a dataset of raw sensor data and were tasked to properly preprocess and apply state-of-the-art Deep Learning (as well as for comparison classical Machine Learning approaches) on top of the processed dataset.
+Supervision of a team of students applying Deep Learning on Human Activity Recognition. The students were given the newly released WEAR dataset and tasked to adavance the current benchmark using either inertial, vision or a combination of both as input data.
