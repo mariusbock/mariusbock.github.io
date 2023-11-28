@@ -26,9 +26,11 @@ code: https://github.com/mariusbock/recurrent_state_of_the_art
 
 ## Bibtex
 
-    @InProceedings{bock2022public,
-    title 		= {A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR  },
-    author 		= {Lloyd Pellatt, Marius Bock, Daniel Roggen, Kristof Van Laerhoven},
-    booktitle 	= {IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
-    year 		= {2022}
-    }
+    @article{bock2022recurrent,
+	title = {Investigating (re)current state-of-the-art in human activity recognition datasets},
+	volume = {4},
+	url = {https://doi.org/10.3389/fcomp.2022.924954},
+	journal = {Frontiers in Computer Science},
+	author = {Bock, Marius and Hoelzemann, Alexander and Moeller, Michael and Van Laerhoven, Kristof},
+	year = {2022},
+}

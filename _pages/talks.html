@@ -12,5 +12,10 @@ author_profile: true
 {% endif %}
 
 {% for post in site.talks reversed %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <h3>{{ currentdate }}</h3>
+    {% assign date = currentdate %}
+  {% endif %}
   {% include archive-single-talk.html %}
 {% endfor %}

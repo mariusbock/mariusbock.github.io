@@ -2,9 +2,11 @@
 title: "Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors"
 collection: publications
 permalink: /publications/2023-05-22-hangtime-har-a-benchmark-dataset-for-basketball-activity-recognition-using-wrist-worn-inertial-sensors
-date: 2023-04-11
+date: 2023-05-22
 authors: 'Alexander Hoelzemann, Julia Lee Romero, <b>Marius Bock</b>, Kristof Van Laerhoven, Qin Lv'
 bibtex: true
+venue: 'MDPI Sensors'
+paperurl: 'https://doi.org/10.3390/s23135879'
 teaser: previews/hangtime_teaser.png
 arxiv: 'https://arxiv.org/abs/2305.13124'
 categories: [wearable activity recognition, datasets]
@@ -24,10 +26,14 @@ code: https://github.com/ahoelzemann/hangtime_har
 
 ## Bibtex
 
-    @Article{hoelzemann2023hangtime,
-    title       = {Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors},
-    author      = {Alexander Hoelzemann, Julia Lee Romero, Marius Bock, Kristof Van Laerhoven, Qin Lv},
-    volume 		= {abs/2305.13124},
-    journal     = {CoRR},
-    year        = {2023}
-    }
+    
+@article{hoelzemann2023hangtime,
+	title = {Hang-time HAR: A benchmark dataset for basketball activity recognition using wrist-worn inertial sensors},
+	volume = {23},
+	url = {https://doi.org/10.3390/s23135879},
+	number = {13},
+	journal = {Sensors},
+	author = {Hoelzemann, Alexander and Romero, Julia L. and Bock, Marius and Van Laerhoven, Kristof and Lv, Qin},
+	year = {2023},
+}
+

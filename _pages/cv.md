@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version of my CV [here (updated April 23)](https://mariusbock.github.io/files/mariusbock_cv_042023.pdf).
+Download a pdf version of my CV [here (updated April 23)](https://mariusbock.github.io/files/mariusbock_cv_112023.pdf).
 
 
 Academic Expericence
 ======
 * 02/2021 - curr: **Ph.D. in Computer Science**, University of Siegen, GER
-  * Supervisors: Prof. Dr. Michael Möller and Prof. Dr. Kristof Van Laerhoven
+  * Supervisors: Prof. Michael Möller and Prof. Kristof Van Laerhoven
   * (Working) Dissertation title: Weak-supervision of Inertial-based Deep Neural Networks using Unlabeled (Egocentric) Visual Data
 * 09/2018 - 11/2020: **M.Sc. in Data Science**, University of Mannheim, GER
   * Final Grade (1.4/1.0) with honors
-  * Supervisor: Prof. Dr. Margret Keuper
+  * Supervisor: Prof. Margret Keuper
   * Dissertation title: Multiple Object Tracking by Link Prediction using Graph Convolution Networks
 * 06/2017 - 09/2017: **Student Researcher**, Yale University, USA
   * Funded under DAAD RISE Worldwide
-  * Supervisor: Prof. Dr. Jakub Szefer & Prof. Dr. Ali Sunyaev
+  * Supervisor: Prof. Jakub Szefer & Prof. Ali Sunyaev
 * 09/2015 - 12/2015:	**Exchange semester**, University of Seoul, KOR
   * Final Grade (4.0/ 4.0)
 * 09/2018 - 11/2020: **B.Sc. in Information Systems**, University of Cologne, GER
   * Final Grade (1.5/1.0) with distinction (top 5%)
-  * Supervisor: Ali Sunyaev
+  * Supervisor: Prof. Ali Sunyaev
 
 Comittees
 ======
@@ -71,6 +71,12 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Teaching

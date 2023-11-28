@@ -28,9 +28,10 @@ video: https://www.youtube.com/watch?v=Xx8a723FPZ0
 
 ## Bibtex
 
-    @InProceedings{bock2021improving,
-    title 		= {Improving Deep Learning for HAR with shallow LSTMs},
-    author 		= {Marius Bock, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven},
-    booktitle 	= {ACM International Symposium on Wearable Computers (ISWC)},
-    year 		= {2021}
-    }
+    @inproceedings{bock2021improving,
+	title = {Improving Deep Learning for HAR with Shallow LSTMs},
+	url = {https://doi.org/10.1145/3460421.3480419},
+	booktitle = {ACM International Symposium on Wearable Computers},
+	author = {Bock, Marius and Hoelzemann, Alexander and Moeller, Michael and Van Laerhoven, Kristof},
+	year = {2021},
+}
