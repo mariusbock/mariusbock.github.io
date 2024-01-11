@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@mariusbock9227"
+  youtube          : "@mariusbock9227"
   wikipedia        :
 
 
@@ -175,10 +175,16 @@ kramdown:
 
 # Collections
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 

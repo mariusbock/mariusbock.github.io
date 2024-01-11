@@ -3,7 +3,7 @@ title: "A Public Repository to Improve Replicability and Collaboration in Deep L
 collection: publications
 permalink: /publications/2022-03-21-a-public-repository-to-improve-replicability-and-collaboration-in-deep-learning-for-har
 date: 2022-03-21
-venue: 'IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)'
+venue: 'IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events'
 paperurl: 'https://doi.org/10.1109/PerComWorkshops53856.2022.9767436'
 teaser: /previews/grokking_teaser.png
 authors: 'Lloyd Pellatt, <b>Marius Bock</b>, Daniel Roggen, Kristof Van Laerhoven'
@@ -30,6 +30,6 @@ video: https://www.youtube.com/watch?v=VWktAi8a4yE
     @InProceedings{bock2022public,
     title 		= {A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR  },
     author 		= {Lloyd Pellatt, Marius Bock, Daniel Roggen, Kristof Van Laerhoven},
-    booktitle 	= {IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
+    booktitle 	= {IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events},
     year 		= {2022}
     }

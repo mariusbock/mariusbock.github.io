@@ -5,6 +5,7 @@ permalink: /publications/2023-11-28-temporal-action-localization-for-inertial-ba
 date: 2023-11-28
 authors: '<b>Marius Bock</b>, Michael Moeller, Kristof Van Laerhoven'
 bibtex: true
+venue: 'arXiv'
 teaser: previews/tal_for_har_teaser.png
 arxiv: 'https://arxiv.org/abs/2311.15831'
 categories: [temporal action localization, inertial-based human activity recognition]

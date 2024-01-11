@@ -1,10 +1,11 @@
 ---
 title: "WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition"
 collection: publications
-permalink: /publications/2023-04-11-wear-an-outdoor-sports-dataset-for-wearable-and-egocentric-video-activity-recognition
+permalink: /publications/2023-04-11-wear-an-outdoor-sports-dataset-for-wearable-and-egocentric-activity-recognition
 date: 2023-04-11
 authors: '<b>Marius Bock</b>, Hilde Kuehne, Kristof Van Laerhoven, Michael Moeller'
 bibtex: true
+venue: 'arXiv'
 teaser: previews/wear_teaser.png
 arxiv: 'https://arxiv.org/abs/2304.05088'
 categories: [wearable activity recognition, temporal action localization, mulitmodal activity recognition, datasets]

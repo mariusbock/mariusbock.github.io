@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-10-13-tutorial-on-deep-learning-for-human-activtiy-recognition
 excerpt: 
 date: 2021-10-13
-venue: 'ACM International Symposium on Wearable Computers (ISWC)'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2110.06663'
 authors: '<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven'
 bibtex: true
@@ -15,6 +15,8 @@ code: https://mariusbock.github.io/dl-for-har
 ---
 
 {{ page.authors }}
+
+Full-day Tutorial held at the 2021 ACM International Symposium on Wearable Computers (ISWC'21) and International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'21).
 
 <img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
 
