@@ -15,7 +15,7 @@ code: https://github.com/mariusbock/weak_har
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/weak.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 

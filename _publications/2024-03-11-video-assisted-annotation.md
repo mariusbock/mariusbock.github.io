@@ -14,7 +14,7 @@ code: https://github.com/mariusbock/video_assisted_annotation
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/video_annotation.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 

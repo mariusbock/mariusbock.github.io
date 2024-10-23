@@ -14,7 +14,7 @@ code: https://github.com/mariusbock/recurrent_state_of_the_art
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/grokking.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/recurrent.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 

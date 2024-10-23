@@ -16,7 +16,7 @@ video: https://www.youtube.com/watch?v=Xx8a723FPZ0
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/improving.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
