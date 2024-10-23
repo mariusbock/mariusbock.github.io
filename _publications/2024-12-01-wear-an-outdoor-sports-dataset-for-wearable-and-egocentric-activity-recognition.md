@@ -1,13 +1,15 @@
 ---
 title: "WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition"
 collection: publications
-permalink: /publications/2023-04-11-wear-an-outdoor-sports-dataset-for-wearable-and-egocentric-activity-recognition
-date: 2023-04-11
+permalink: /publications/2024-12-01-wear-an-outdoor-sports-dataset-for-wearable-and-egocentric-activity-recognition
+date: 2024-12-01
 authors: '<b>Marius Bock</b>, Hilde Kuehne, Kristof Van Laerhoven, Michael Moeller'
 bibtex: true
-venue: 'arXiv'
+venue: 'ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
 teaser: previews/wear_teaser.png
 arxiv: 'https://arxiv.org/abs/2304.05088'
+paperurl: 'https://doi.org/10.1145/3699776'
+code: https://github.com/mariusbock/wear
 categories: [wearable activity recognition, temporal action localization, mulitmodal activity recognition, datasets]
 code: https://mariusbock.github.io/wear/
 ---
@@ -25,10 +27,15 @@ code: https://mariusbock.github.io/wear/
 
 ## Bibtex
 
-    @Article{bock2023wear,
-    title       = {WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition},
-    author      = {Marius Bock, Hilde Kuehne, Kristof Van Laerhoven, Michael Moeller},
-    volume 		= {abs/2304.05088},
-    journal     = {CoRR},
-    year        = {2023}
-    }
+    @article{bock2024wear,
+    author={Bock, Marius and Kuehne, Hilde and Van Laerhoven, Kristof and Moeller, Michael},
+    title = {WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition},
+    year = {2024},
+    volume = {8},
+    number = {4},
+    journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)},
+    numpages = {21},
+    articleno = {175},
+    doi = {10.1145/3699776},
+    url={https://dl.acm.org/doi/10.1145/3699776}
+}
