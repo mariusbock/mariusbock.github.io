@@ -18,7 +18,8 @@ Before joining the groups in Siegen, I received my bachelor's degree (with disti
 
 - Sep 2024: Both papers on [WEAR](https://mariusbock.github.io/wear/) and [TAL for HAR](https://github.com/mariusbock/tal_for_har) were accpeted at [IMWUT](https://dl.acm.org/journal/imwut)
 - Jun 2024: Our paper [Weak-Annotation of HAR Datasets using Vision Foundation Models] was accpeted at ISWC 2024.
-- May 2024: I joined ISWC Technical Program Commitee.
+- May 2024: I joined ISWC Technical Program Commitee for ISWC 2024 in Australia.
+- Jan 2024: I joined the [HASCA](http://hasca2024.hasc.jp) Organizing Committee for the 12th iteration of the workshop. At HASCA we will be hosting the [First WEAR Dataset Challenge](https://mariusbock.github.io/wear/challenge.html).
 - Oct 2023: I was featured in the [Querschnitt magazine](https://www.uni-siegen.de/presse/publikationen/querschnitt/archiv/2023/querschnitt_03-2023_web.pdf) of the University of Siegen (page 26, only in German).
-- Dec 2023: Check out the [talk](https://youtu.be/1uulSdrcfe4) I gave at the Karlsruhe Institute of Technology on TAL for HAR.
-- Sep 2023: Check out the [talk](https://youtu.be/kzRCN4S8KXk) I gave at the University of Cambridge on WEAR.
+- Dec 2023: I gave a [talk](https://youtu.be/1uulSdrcfe4) at the Karlsruhe Institute of Technology on TAL for HAR.
+- Sep 2023: I gave a [talk](https://youtu.be/1uulSdrcfe4) at the University of Cambridge on WEAR.
