@@ -7,7 +7,7 @@ venue: 'IEEE International Conference on Pervasive Computing and Communications 
 paperurl: 'https://doi.org/10.1109/PerComWorkshops59983.2024.10503292'
 authors: 'Alexander Hoelzemann, <b>Marius Bock</b>, Kristof Van Laerhoven'
 bibtex: true
-teaser: /previews/annotation_teaser.png
+teaser: /previews/video_annotation_teaser.png
 categories: [wearable activity recognition]
 code: https://github.com/mariusbock/video_assisted_annotation
 ---
