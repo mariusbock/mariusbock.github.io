@@ -14,6 +14,8 @@ Download a pdf version of my CV [here (updated April 23)](https://mariusbock.git
 
 Academic Expericence
 ======
+* 11/2024 - curr: **Visiting Ph.D.**, University of Cambridge, UK
+  * Supervisors: Prof. Cecilia Mascolo
 * 02/2021 - curr: **Ph.D. in Computer Science**, University of Siegen, GER
   * Supervisors: Prof. Michael Möller and Prof. Kristof Van Laerhoven
   * (Working) Dissertation title: Weak-supervision of Inertial-based Deep Neural Networks using Unlabeled (Egocentric) Visual Data
@@ -32,6 +34,10 @@ Academic Expericence
 
 Comittees
 ======
+* 2024: **Organizing Committee**
+  * 12th International Workshop on Human Activity Sensing Corpus and Applications (HASCA), AUS
+* 2024: **Technical Progam Committee**
+  * ACM International Symposium on Wearable Computers 2024, AUS
 * 2023: **Student Volunteer Chair**
   * ACM UbiComp/ ISWC 2023, MEX
 
