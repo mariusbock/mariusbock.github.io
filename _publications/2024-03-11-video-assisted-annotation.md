@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2024-03-11-video-assisted-annotation
 date: 2024-03-11
 venue: 'IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events'
-paperurl: 'doi.org/10.1109/PerComWorkshops59983.2024.10503292'
+paperurl: 'https://doi.org/10.1109/PerComWorkshops59983.2024.10503292'
 authors: 'Alexander Hoelzemann, <b>Marius Bock</b>, Kristof Van Laerhoven'
 bibtex: true
 teaser: /previews/annotation_teaser.png
@@ -27,10 +27,10 @@ code: https://github.com/mariusbock/video_assisted_annotation
 ## Bibtex
 
     @inproceedings{hoelzemannbock2024videoannotation,
-  		title = {Evaluation of Video-Assisted Annotation of Human IMU Data Across Expertise, Datasets, and Tools},
-  		author = {Alexander Hoelzemann and Marius Bock and Kristof Van Laerhoven},
-  		booktitle = {2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
-  		year = {2024},
-  		url = {https://doi.org/10.1109/PerComWorkshops59983.2024.10503292},
-  		publisher = {IEEE Computer Society},
+  	title = {Evaluation of Video-Assisted Annotation of Human IMU Data Across Expertise, Datasets, and Tools},
+  	author = {Alexander Hoelzemann and Marius Bock and Kristof Van Laerhoven},
+  	booktitle = {2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
+  	year = {2024},
+  	url = {https://doi.org/10.1109/PerComWorkshops59983.2024.10503292},
+  	publisher = {IEEE Computer Society},
 }
