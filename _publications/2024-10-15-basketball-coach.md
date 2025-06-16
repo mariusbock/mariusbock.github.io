@@ -12,11 +12,9 @@ categories: [wearable activity recognition, mulitmodal activity recognition]
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/wear.png" alt="Teaser Image" title="teaser" />
 ## Abstract
 
-> Wearable devices have become efficient tools for
-sports performance analysis. Professional systems heavily rely on the high-tech setup, which are expensive and privacy-invasive for amateur players. This paper addresses the gap between advanced professional systems and limited consumer options by proposing a low-cost, privacy-preserving approach for basketball shot detection and outcome prediction. We leverage accelerometer data from wrist-worn smartwatches, combined with audio recordings, to develop a system capable of identifying shot movements and predicting shot outcomes. The shot detection was achieved by a 1D CNN model through accelerometer data and outcome classification was achieved by an audio classification model. We evaluated the system on 6 participants, and the macro F1 score for shot outcome classification in data streams are 81.53% and 78.07% on dominant hand and non-dominant hand, respectively. Our system opens up explorations in other domains, including medical or industrial activity recognition, where similar approaches can be applied.
+> Wearable devices have become efficient tools for sports performance analysis. Professional systems heavily rely on the high-tech setup, which are expensive and privacy-invasive for amateur players. This paper addresses the gap between advanced professional systems and limited consumer options by proposing a low-cost, privacy-preserving approach for basketball shot detection and outcome prediction. We leverage accelerometer data from wrist-worn smartwatches, combined with audio recordings, to develop a system capable of identifying shot movements and predicting shot outcomes. The shot detection was achieved by a 1D CNN model through accelerometer data and outcome classification was achieved by an audio classification model. We evaluated the system on 6 participants, and the macro F1 score for shot outcome classification in data streams are 81.53% and 78.07% on dominant hand and non-dominant hand, respectively. Our system opens up explorations in other domains, including medical or industrial activity recognition, where similar approaches can be applied.
 
 ## Resources
 
