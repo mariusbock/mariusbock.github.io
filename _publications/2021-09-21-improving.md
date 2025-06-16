@@ -1,9 +1,9 @@
 ---
 title: "Improving Deep Learning for HAR with shallow LSTMs [best paper award]"
 collection: publications
-permalink: /publications/2021-09-21-improving-deep-learning-with-shallow-lstms
+permalink: /publications/2021-09-21-improving
 date: 2021-09-21
-venue: 'ACM International Symposium on Wearable Computers (ISWC)'
+venue: 'ACM International Symposium on Wearable Computers'
 paperurl: 'https://doi.org/10.1145/3460421.3480419'
 authors: '<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven'
 bibtex: true
@@ -29,9 +29,9 @@ video: https://www.youtube.com/watch?v=Xx8a723FPZ0
 ## Bibtex
 
     @inproceedings{bock2021improving,
-	title = {Improving Deep Learning for HAR with Shallow LSTMs},
-	url = {https://doi.org/10.1145/3460421.3480419},
-	booktitle = {ACM International Symposium on Wearable Computers},
 	author = {Bock, Marius and Hoelzemann, Alexander and Moeller, Michael and Van Laerhoven, Kristof},
+	title = {Improving Deep Learning for HAR with Shallow LSTMs},
+	booktitle = {ACM International Symposium on Wearable Computers},
 	year = {2021},
+	url = {https://doi.org/10.1145/3460421.3480419},
 }

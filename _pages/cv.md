@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version of my CV [here (updated April 23)](https://mariusbock.github.io/files/mariusbock_cv_112023.pdf).
+Download a pdf version of my CV [here (updated June 2025)](https://mariusbock.github.io/files/mariusbock_cv_062025.pdf).
 
 
 Academic Expericence
 ======
-* 11/2024 - curr: **Visiting Ph.D.**, University of Cambridge, UK
-  * Supervisors: Prof. Cecilia Mascolo
+* 11/2024 - 03/2025: **Visiting Ph.D. Student**, University of Cambridge, UK
+  * Supervisor: Prof. Cecilia Mascolo
 * 02/2021 - curr: **Ph.D. in Computer Science**, University of Siegen, GER
   * Supervisors: Prof. Michael Möller and Prof. Kristof Van Laerhoven
-  * (Working) Dissertation title: Weak-supervision of Inertial-based Deep Neural Networks using Unlabeled (Egocentric) Visual Data
+  * (Working) Dissertation title: On the Complementarity of Video and Inertial Data for Human Activity Recognition
 * 09/2018 - 11/2020: **M.Sc. in Data Science**, University of Mannheim, GER
   * Final Grade (1.4/1.0) with honors
   * Supervisor: Prof. Margret Keuper
   * Dissertation title: Multiple Object Tracking by Link Prediction using Graph Convolution Networks
 * 06/2017 - 09/2017: **Student Researcher**, Yale University, USA
   * Funded under DAAD RISE Worldwide
-  * Supervisor: Prof. Jakub Szefer & Prof. Ali Sunyaev
+  * Supervisors: Prof. Jakub Szefer & Prof. Ali Sunyaev
 * 09/2015 - 12/2015:	**Exchange semester**, University of Seoul, KOR
   * Final Grade (4.0/ 4.0)
 * 09/2018 - 11/2020: **B.Sc. in Information Systems**, University of Cologne, GER
@@ -34,21 +34,27 @@ Academic Expericence
 
 Comittees
 ======
-* 2024: **Organizing Committee**
-  * 12th International Workshop on Human Activity Sensing Corpus and Applications (HASCA), AUS
-* 2024: **Technical Progam Committee**
-  * ACM International Symposium on Wearable Computers 2024, AUS
+* since 2025: **Technical Progam Committee**
+  * UbiSense: Emerging Techniques in Ubiquitous Sensing and Interaction
+* since 2024: **Organizing Committee**
+  * International Workshop on Human Activity Sensing Corpus and Applications (HASCA)
+* since 2024: **Technical Progam Committee**
+  * ACM International Symposium on Wearable Computers
 * 2023: **Student Volunteer Chair**
   * ACM UbiComp/ ISWC 2023, MEX
 
 Scholarships & Awards
 ======
+
 * 2021: **ISWC Best Paper Award**
   * awarded for paper “Improving Deep Learning for HAR with Shallow LSTMs” at
 ACM International Joint Conference on Pervasive and Ubiquitous Computing and ACM International Symposium on Wearable Computers 2021
 
 * 2021: **House of Young Talents - Young Academy**
   * 3-year funded PhD scholarship
+
+* 2025: **1st Prize ZESS PhD Research-Forum Lightning Talks**
+  * awarded for lightning talk given at the annual ZESS PhD Reasearch-Forum in Siegen
 
 * 2021: **ZESS Stipend Award**
   * 6-month funded PhD scholarship

@@ -1,11 +1,11 @@
 ---
 title: "Temporal Action Localization for Inertial-based Human Activity Recognition"
 collection: publications
-permalink: /publications/2024-12-01-temporal-action-localization-for-inertial-based-har
-date: 2024-12-01
+permalink: /publications/2024-12-01-tal-for-har
+date: 2024-11-21
 authors: '<b>Marius Bock</b>, Michael Moeller, Kristof Van Laerhoven'
 bibtex: true
-venue: 'ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
+venue: 'ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
 teaser: previews/tal_for_har_teaser.png
 arxiv: 'https://arxiv.org/abs/2311.15831'
 paperurl: 'https://doi.org/10.1145/3699770'

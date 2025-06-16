@@ -1,10 +1,10 @@
 ---
 title: "Tutorial on Deep Learning for Human Activity Recognition"
 collection: publications
-permalink: /publications/2021-10-13-tutorial-on-deep-learning-for-human-activtiy-recognition
+permalink: /publications/2021-10-13-tutorial-har
 excerpt: 
 date: 2021-10-13
-venue: 'arXiv'
+venue: 'ACM International Joint Conference on Pervasive and Ubiquitous Computing and the ACM International Symposium on Wearable Computing'
 paperurl: 'https://arxiv.org/abs/2110.06663'
 authors: '<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven'
 bibtex: true
@@ -16,7 +16,7 @@ code: https://mariusbock.github.io/dl-for-har
 
 {{ page.authors }}
 
-Full-day Tutorial held at the 2021 ACM International Symposium on Wearable Computers (ISWC'21) and International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'21).
+Full-day Tutorial held at the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the ACM International Symposium on Wearable Computing.
 
 <img class="pub_teaser" src="../images/previews/dl-arc.png" alt="Teaser Image" title="teaser" />
 
@@ -30,7 +30,7 @@ Full-day Tutorial held at the 2021 ACM International Symposium on Wearable Compu
 
 ## Bibtex
 
-    @Article{bock2021tutorial,
+    @article{bock2021tutorial,
     title 		= {Tutorial on Deep Learning for Human Activity Recognition},
     author 		= {Marius Bock, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven},
     volume      = {abs/2110.06663},

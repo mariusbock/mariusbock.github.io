@@ -1,14 +1,15 @@
 ---
 title: "Weak-Annotation of HAR Datasets using Vision Foundation Models"
 collection: publications
-permalink: /publications/2024-10-05-weak-annotation-of-human-activity-recognition-datasets
+permalink: /publications/2024-10-05-weak-annotation-har
 date: 2024-10-05
-venue: 'ACM International Symposium on Wearable Computers (ISWC)'
+venue: 'ACM International Symposium on Wearable Computers'
 paperurl: 'https://doi.org/10.1145/3675095.3676613'
-authors: '<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven'
+authors: '<b>Marius Bock</b>, Kristof Van Laerhoven, Michael Moeller'
 bibtex: true
 teaser: /previews/weak_teaser.png
 arxiv: 'https://arxiv.org/abs/2408.05169'
+paperurl: 'https://doi.org/10.1145/3675095.3676613'
 categories: [wearable activity recognition]
 code: https://github.com/mariusbock/weak_har
 ---
@@ -27,7 +28,7 @@ code: https://github.com/mariusbock/weak_har
 
 ## Bibtex
 
-    @article{bock2024annotation,
+    @inproceedings{bock2024annotation,
   	title = {Weak-Annotation of HAR Datasets using Vision Foundation Models},
   	author = {Bock, Marius and Van Laerhoven, Kristof and Moeller, Michael},
   	publisher = {Association for Computing Machinery},

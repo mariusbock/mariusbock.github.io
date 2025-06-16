@@ -1,7 +1,7 @@
 ---
 title: "A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR"
 collection: publications
-permalink: /publications/2022-03-21-a-public-repository-to-improve-replicability-and-collaboration-in-deep-learning-for-har
+permalink: /publications/2022-03-21-har-repository
 date: 2022-03-21
 venue: 'IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events'
 paperurl: 'https://doi.org/10.1109/PerComWorkshops53856.2022.9767436'
@@ -27,7 +27,7 @@ video: https://www.youtube.com/watch?v=VWktAi8a4yE
 
 ## Bibtex
 
-    @InProceedings{bock2022public,
+    @inproceedings{bock2022public,
     title 		= {A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR  },
     author 		= {Lloyd Pellatt, Marius Bock, Daniel Roggen, Kristof Van Laerhoven},
     booktitle 	= {IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events},

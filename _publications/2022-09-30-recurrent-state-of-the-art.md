@@ -1,7 +1,7 @@
 ---
 title: "Investigating (Re)current State-of-the-art in Human Activity Recognition Datasets"
 collection: publications
-permalink: /publications/2022-09-30-investigating-recurrent-state-of-the-art-in-human-activity-recognition-datasets
+permalink: /publications/2022-09-30-recurrent-state-of-the-art
 date: 2022-09-30
 venue: 'Frontiers in Computer Science'
 paperurl: 'https://doi.org/10.3389/fcomp.2022.924954'

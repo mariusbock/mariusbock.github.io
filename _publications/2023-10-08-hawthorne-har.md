@@ -1,9 +1,9 @@
 ---
 title: "A Data-Driven Study on the Hawthorne Effect in Sensor-Based Human Activity Recognition"
 collection: publications
-permalink: /publications/2023-10-08-a-data-driven-study-on-the-hawthorne-effect-in-sensor-based-human-activity-recognition
+permalink: /publications/2023-10-08-hawthorne-har
 date: 2023-10-08
-venue: 'UbiComp/ISWC 2023'
+venue: 'ACM International Joint Conference on Pervasive and Ubiquitous Computing and the ACM International Symposium on Wearable Computing'
 authors: 'Alexander Hoelzemann, <b>Marius Bock</b>, Ericka Andrea Valladares Bastiias, Salma El Ouazzani Touhami, Kenza Nassiri, Kristof Van Laerhoven'
 bibtex: true
 teaser: previews/hawthorne_teaser.png
