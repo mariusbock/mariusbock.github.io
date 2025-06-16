@@ -6,7 +6,7 @@ date: 2024-04-23
 venue: 'IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events'
 authors: 'Alexander Hoelzemann, <b>Marius Bock</b>, Kristof Van Laerhoven'
 bibtex: true
-teaser: /previews/video_annotation_teaser.png
+teaser: /previews/video-annotation_teaser.png
 paperurl: 'https://doi.org/10.1109/PerComWorkshops59983.2024.10503292'
 categories: [wearable activity recognition]
 code: https://github.com/mariusbock/video_assisted_annotation
@@ -14,7 +14,7 @@ code: https://github.com/mariusbock/video_assisted_annotation
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/video_annotation.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/video-annotation.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
