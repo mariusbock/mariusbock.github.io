@@ -15,9 +15,11 @@ Before doing my PhD, I received my bachelor's degree (with distinction) in Infor
 
 # News
 
-- June 2025: I joined the UbiSense Workshop Technical Program Commitee at [ISWC 2025 in Finland](https://www.iswc.net).
+- August 2025: We are organizing a workshop at NeurIPS called [Learning to Sense](https://sites.google.com/view/l2s-workshop/home).
+- August 2025: I gave a talk at the University of Bonn in front of the group of Juergen Gall.
+- August 2025: Our paper "Label Leakage in Federated Inertial-based Human Activity Recognition" was accepted at [ISWC 2025 in Finland](https://www.iswc.net).
+- June 2025: I joined the UbiSense Workshop Technical Program Commitee at [UbiComp/ ISWC 2025 in Finland](https://www.ubicomp.org).
 - May 2025: I won the 1st Prize at the ZESS PhD Research-Forum Lightning Talks.
 - April 2025: The [second iteration of our WEAR Challenge](https://mariusbock.github.io/wear/challenge.html) has started! It will be again hosted at HASCA.
 - March 2025: I gave a talk on the complementarity of video and inertial data at Google in London.
 - March 2025: I joined the ISWC Technical Program Commitee for [ISWC 2025 in Finland](https://www.iswc.net).
-- Nov 2024: I joined [Cecilia Mascolo's group @Cambridge](https://www.cl.cam.ac.uk/~cm542/) for a 5-month Visiting PhD

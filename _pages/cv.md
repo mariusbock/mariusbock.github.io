@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version of my CV [here (updated June 2025)](https://mariusbock.github.io/files/mariusbock_cv_062025.pdf).
+Download a pdf version of my CV [here (updated August 2025)](https://mariusbock.github.io/files/mariusbock_cv_082025.pdf).
 
 
 Academic Expericence
@@ -34,6 +34,8 @@ Academic Expericence
 
 Comittees
 ======
+* 2025: **Organizing Committee**
+  * Learning 2 Sense (L2S) Workshop at NeurIPS 2025
 * since 2025: **Technical Progam Committee**
   * UbiSense: Emerging Techniques in Ubiquitous Sensing and Interaction
 * since 2024: **Organizing Committee**
