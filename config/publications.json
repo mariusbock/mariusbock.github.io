@@ -1,0 +1,109 @@
+{
+  "publications": [
+    {
+      "year": 2025, "highlight": true,
+      "title": "Label Leakage in Federated Inertial-based Human Activity Recognition",
+      "authors_html": "<b>Marius Bock</b>, Kristof Van Laerhoven, Michael Moeller",
+      "venue": "ISWC 2025",
+      "image": "https://mariusbock.github.io/images/previews/leakage_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://dl.acm.org/doi/10.1145/3715071.3750413" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2505.20924" }, { "label": "GitHub", "url": "https://github.com/mariusbock/leakage_har" }]
+    },
+    {
+      "year": 2025, "highlight": false,
+      "title": "DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition",
+      "authors_html": "<b>Marius Bock</b>, Michael Moeller, Kristof Van Laerhoven",
+      "venue": "Preprint 2025",
+      "image": "https://mariusbock.github.io/images/previews/deepconvcontext_teaser.png",
+      "links": [{ "label": "arXiv", "url": "https://arxiv.org/abs/2505.20894" }, { "label": "GitHub", "url": "https://github.com/mariusbock/context_har" }]
+    },
+    {
+      "year": 2024, "highlight": false,
+      "title": "Basketball Shooting Performance Analysis Using Multi-Modal Wearable and Mobile Sensing in Semi-Naturalistic Settings",
+      "authors_html": "Sixuan Wu, Alexander Hoelzemann, <b>Marius Bock</b>, Kristof Van Laerhoven, Thomas Ploetz, Alexander T. Adams",
+      "venue": "IEEE BSN 2024",
+      "image": "https://mariusbock.github.io/images/previews/basketball-coach_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1109/BSN63547.2024.10780653" }]
+    },
+    {
+      "year": 2024, "highlight": true,
+      "title": "WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition",
+      "authors_html": "<b>Marius Bock</b>, Hilde Kuehne, Kristof Van Laerhoven, Michael Moeller",
+      "venue": "IMWUT 2024",
+      "image": "https://mariusbock.github.io/images/previews/wear_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1145/3699776" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2304.05088" }, { "label": "GitHub", "url": "https://mariusbock.github.io/wear/" }]
+    },
+    {
+      "year": 2024, "highlight": true,
+      "title": "Temporal Action Localization for Inertial-based Human Activity Recognition",
+      "authors_html": "<b>Marius Bock</b>, Michael Moeller, Kristof Van Laerhoven",
+      "venue": "IMWUT 2024",
+      "image": "https://mariusbock.github.io/images/previews/tal-for-har_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1145/3699770" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2311.15831" }, { "label": "GitHub", "url": "https://github.com/mariusbock/tal_for_har" }]
+    },
+    {
+      "year": 2024, "highlight": true,
+      "title": "Weak-Annotation of HAR Datasets using Vision Foundation Models",
+      "authors_html": "<b>Marius Bock</b>, Kristof Van Laerhoven, Michael Moeller",
+      "venue": "ISWC 2024",
+      "image": "https://mariusbock.github.io/images/previews/weak_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1145/3675095.3676613" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2408.05169" }, { "label": "GitHub", "url": "https://github.com/mariusbock/weak_har" }]
+    },
+    {
+      "year": 2024, "highlight": false,
+      "title": "Evaluation of Video-Assisted Annotation of Human IMU Data Across Expertise, Datasets, and Tools",
+      "authors_html": "Alexander Hoelzemann, <b>Marius Bock</b>, Kristof Van Laerhoven",
+      "venue": "PerCom Workshops 2024",
+      "image": "https://mariusbock.github.io/images/previews/video-annotation_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1109/PerComWorkshops59983.2024.10503292" }, { "label": "GitHub", "url": "https://github.com/mariusbock/video_assisted_annotation" }]
+    },
+    {
+      "year": 2023, "highlight": false,
+      "title": "A Data-Driven Study on the Hawthorne Effect in Sensor-Based Human Activity Recognition",
+      "authors_html": "Alexander Hoelzemann, <b>Marius Bock</b>, et al.",
+      "venue": "UbiComp/ISWC 2023",
+      "image": "https://mariusbock.github.io/images/previews/hawthorne_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1145/3594739.3610743" }, { "label": "GitHub", "url": "https://github.com/mariusbock/hawthorne_har" }]
+    },
+    {
+      "year": 2023, "highlight": false,
+      "title": "Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors",
+      "authors_html": "Alexander Hoelzemann, Julia Lee Romero, <b>Marius Bock</b>, Kristof Van Laerhoven, Qin Lv",
+      "venue": "MDPI Sensors 2023",
+      "image": "https://mariusbock.github.io/images/previews/hangtime_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.3390/s23135879" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2305.13124" }, { "label": "GitHub", "url": "https://github.com/ahoelzemann/hangtime_har" }]
+    },
+    {
+      "year": 2022, "highlight": false,
+      "title": "Investigating (Re)current State-of-the-art in Human Activity Recognition Datasets",
+      "authors_html": "<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven",
+      "venue": "Frontiers in Computer Science 2022",
+      "image": "https://mariusbock.github.io/images/previews/recurrent_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.3389/fcomp.2022.924954" }, { "label": "GitHub", "url": "https://github.com/mariusbock/recurrent_state_of_the_art" }]
+    },
+    {
+      "year": 2022, "highlight": false,
+      "title": "A Public Repository to Improve Replicability and Collaboration in Deep Learning for HAR",
+      "authors_html": "Lloyd Pellatt, <b>Marius Bock</b>, Daniel Roggen, Kristof Van Laerhoven",
+      "venue": "PerCom Workshops 2022",
+      "image": "https://mariusbock.github.io/images/previews/grokking_teaser.png",
+      "links": [{ "label": "Paper", "url": "https://doi.org/10.1109/PerComWorkshops53856.2022.9767436" }, { "label": "GitHub", "url": "https://github.com/STRCSussex-UbiCompSiegen/dl_har_public" }, { "label": "Video", "url": "https://www.youtube.com/watch?v=VWktAi8a4yE" }]
+    },
+    {
+      "year": 2021, "highlight": false,
+      "title": "Tutorial on Deep Learning for Human Activity Recognition",
+      "authors_html": "<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven",
+      "venue": "UbiComp/ISWC 2021",
+      "image": "https://mariusbock.github.io/images/previews/dl-arc_teaser.png",
+      "links": [{ "label": "arXiv", "url": "https://arxiv.org/abs/2110.06663" }, { "label": "GitHub", "url": "https://mariusbock.github.io/dl-for-har" }]
+    },
+    {
+      "year": 2021, "highlight": true,
+      "title": "Improving Deep Learning for HAR with shallow LSTMs",
+      "authors_html": "<b>Marius Bock</b>, Alexander Hoelzemann, Michael Moeller, Kristof Van Laerhoven",
+      "venue": "ISWC 2021",
+      "award": "Best Paper",
+      "image": "https://mariusbock.github.io/images/previews/improving_teaser.png",
+      "links": [{ "label": "PDF", "url": "https://doi.org/10.1145/3460421.3480419" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2108.00702" }, { "label": "GitHub", "url": "https://github.com/mariusbock/dl-for-har" }, { "label": "Video", "url": "https://www.youtube.com/watch?v=Xx8a723FPZ0" }]
+    }
+  ]
+}

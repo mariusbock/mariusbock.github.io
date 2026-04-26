@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Marius Bock — PostDoc in Ubiquitous Computing & Computer Vision">
+  <title>Marius Bock</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- ── Top Accent Bar ── -->
+  <div class="accent-bar" aria-hidden="true"></div>
+
+  <!-- ── Navbar ── -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-inner">
+      <a href="#home" class="nav-brand">Marius Bock</a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#about"        class="nl">About</a></li>
+        <li><a href="#news"         class="nl">News</a></li>
+        <li><a href="#publications" class="nl">Publications</a></li>
+        <li><a href="#talks"        class="nl">Talks</a></li>
+        <li><a href="#services"     class="nl">Services</a></li>
+        <li><a href="#awards"       class="nl">Awards</a></li>
+        <li><a href="#teaching"     class="nl">Teaching</a></li>
+        <li><a href="#contact"      class="nl nl-cta">Contact</a></li>
+      </ul>
+      <button class="burger" id="burger" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ── Hero ── -->
+  <section id="home" class="hero">
+    <div class="hero-inner hero-split">
+
+      <!-- LEFT: Photo + About -->
+      <div class="hero-left" id="about">
+        <div class="hero-photo-wrap">
+          <img id="hero-photo" src="profile.jpg" class="hero-photo" alt="Profile photo of Marius Bock">
+          <div class="hero-photo-init" id="hero-photo-init" aria-hidden="true">MB</div>
+        </div>
+        <h1 class="hero-name" id="hero-name"></h1>
+        <p class="hero-role" id="hero-role"></p>
+        <p class="hero-affil" id="hero-affil"></p>
+        <div class="about-body" id="about-body"></div>
+        <div class="hero-socials" id="hero-socials"></div>
+      </div>
+
+      <!-- RIGHT: News -->
+      <div class="hero-right">
+        <div id="news" class="news-anchor" aria-hidden="true"></div>
+        <h3 class="mini-title">Latest News</h3>
+        <ul class="compact-news" id="compact-news"></ul>
+        <!-- news-more button injected by JS when needed -->
+        <div class="hero-socials hero-socials-right" id="hero-socials-right" style="display:none"></div>
+      </div>
+
+    </div>
+
+    <!-- Scroll hint -->
+    <div class="hero-scroll-hint" aria-hidden="true">
+      <div class="scroll-arrow"></div>
+    </div>
+  </section>
+
+  <!-- ── Publications ── -->
+  <section id="publications" class="section">
+    <div class="container">
+      <h2 class="sec-title">Publications</h2>
+      <p class="sec-sub">A selection of my research work</p>
+      <div id="pub-container"></div>
+    </div>
+  </section>
+
+  <!-- ── Talks ── -->
+  <section id="talks" class="section section-alt">
+    <div class="container">
+      <h2 class="sec-title">Talks &amp; Presentations</h2>
+      <div id="talks-container"></div>
+    </div>
+  </section>
+
+  <!-- ── Services ── -->
+  <section id="services" class="section">
+    <div class="container">
+      <h2 class="sec-title">Academic Services</h2>
+      <p class="sec-sub">Reviewing, organising, and community contributions</p>
+      <div class="services-grid" id="services-grid"></div>
+    </div>
+  </section>
+
+  <!-- ── Awards ── -->
+  <section id="awards" class="section section-alt">
+    <div class="container">
+      <h2 class="sec-title">Awards &amp; Recognition</h2>
+      <div class="awards-list" id="awards-list"></div>
+    </div>
+  </section>
+
+  <!-- ── Teaching ── -->
+  <section id="teaching" class="section">
+    <div class="container">
+      <h2 class="sec-title">Teaching</h2>
+      <div class="teaching-compact" id="teaching-compact"></div>
+    </div>
+  </section>
+
+  <!-- ── Contact ── -->
+  <section id="contact" class="section contact-section">
+    <div class="container contact-inner">
+      <h2 class="sec-title light" id="contact-title">Get in Touch</h2>
+      <p class="contact-sub" id="contact-sub"></p>
+      <button class="btn btn-contact" id="contact-btn" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+          <polyline points="22,6 12,13 2,6"/>
+        </svg>
+        Send Email
+      </button>
+    </div>
+  </section>
+
+  <!-- ── Footer ── -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span class="footer-name" id="footer-name"></span>
+      <span class="footer-copy">&copy; <span id="copy-year"></span></span>
+      <div class="footer-socials" id="footer-socials"></div>
+    </div>
+  </footer>
+
+  <noscript>
+    <p style="text-align:center;padding:40px;font-family:sans-serif;color:#64748B">
+      JavaScript is required to view this page. Please enable it in your browser.
+    </p>
+  </noscript>
+
+  <script src="main.js"></script>
+</body>
+</html>

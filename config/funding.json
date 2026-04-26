@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "type": "Research Grant",
+      "title": "[Your Project Title Here]",
+      "org": "[Funding Body, e.g. DFG / BMBF / EU Horizon]",
+      "years": "2025–2027",
+      "description": "[Brief description of the project and your role.]",
+      "amount": "[e.g. €150,000]"
+    },
+    {
+      "type": "Challenge Grant",
+      "title": "WEAR Dataset Challenge",
+      "org": "ACM / HASCA Workshop",
+      "years": "2024–2025",
+      "description": "Organisation and execution of two open benchmark challenges based on the WEAR outdoor sports dataset, including prize funding for top-performing teams.",
+      "amount": ""
+    }
+  ]
+}

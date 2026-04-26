@@ -1,0 +1,25 @@
+{
+  "name": "Marius Bock",
+  "title": "PostDoctoral Researcher",
+  "affiliation": "University of Bonn & Lamarr Institute for Artificial Intelligence, Germany",
+  "photo": "images/profile.jpg",
+
+  "bio": [
+    "I am part of the Computer Vision group at the University of Bonn headed by <a href='https://pages.iai.uni-bonn.de/gall_juergen/' target='_blank'>Jürgen Gall</a> focussing on <strong>wearable computing</strong> and <strong>activity recognition</strong>. I completed my PhD at the University of Siegen under the supervision of <a href='https://ubicomp.eti.uni-siegen.de/home/team/kristof.html' target='_blank'>Kristof Van Laerhoven</a> and <a href='https://sites.google.com/site/michaelmoellermath' target='_blank'>Michael Möller</a>."
+  ],
+
+  "links": [
+    { "label": "Google Scholar",  "url": "https://scholar.google.com/citations?user=7HPBugEAAAAJ&hl=en", "icon": "scholar"      },
+    { "label": "GitHub",          "url": "https://github.com/mariusbock",                               "icon": "github"       },
+    { "label": "LinkedIn",        "url": "https://www.linkedin.com/in/marius-bock",                     "icon": "linkedin"     },
+    { "label": "YouTube",         "url": "https://www.youtube.com/@mariusbock9227",                      "icon": "youtube"      }
+  ],
+
+  "contact": {
+    "title": "Get in Touch",
+    "sub": "Interested in collaboration, questions about my research, or just want to connect? Feel free to reach out.",
+    "email_user":   "bock",
+    "email_domain": "iai.uni-bonn",
+    "email_tld":    "de"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "news": [
+    { "date": "Apr 2026", "text_before": "The ", "link_text": "3rd WEAR Challenge", "link": "https://mariusbock.github.io/wear/challenge.html", "text_after": " has started! Hosted again at HASCA." },
+    { "date": "Apr 2026", "text_before": "I once again will join the ISWC Technical Program Committee for ", "link_text": "ISWC 2026", "link": "https://www.iswc.net", "text_after": "." },
+    { "date": "Jan 2026", "text_before": "I started a position as a Postdoctoral Researcher at the University of Bonn under the supervision of", "link_text": "   Prof. Dr. Jürgen Gall", "link": "https://pages.iai.uni-bonn.de/gall_juergen/", "text_after": "." },
+    { "date": "Nov 2025", "text_before": "I succesfully defended", "link_text": " my PhD thesis", "link": "https://dspace.ub.uni-siegen.de/entities/publication/d947d8e1-2c82-42b6-9d62-75b6d24dd8ae", "text_after": " at the University of Siegen with distinction (summa cum laude)." },
+    { "date": "Aug 2025", "text_before": "We are organizing a workshop at NeurIPS called ", "link_text": "Learning to Sense", "link": "https://sites.google.com/view/l2s-workshop/home", "text_after": "." },
+    { "date": "Aug 2025", "text": "I gave a talk at the University of Bonn in front of the group of Juergen Gall." },
+    { "date": "Aug 2025", "text_before": "Paper \"Label Leakage in Federated Inertial-based HAR\" accepted at ", "link_text": "ISWC 2025", "link": "https://www.iswc.net", "text_after": "." },
+    { "date": "Jun 2025", "text_before": "Joined the UbiSense Workshop Technical Program Committee at ", "link_text": "UbiComp/ISWC 2025", "link": "https://www.ubicomp.org", "text_after": "." },
+    { "date": "May 2025", "text": "Won the 1st Prize at the ZESS PhD Research-Forum Lightning Talks." },
+    { "date": "Mar 2025", "text": "Gave a talk on the complementarity of video and inertial data at Google, London." }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "courses": [
+    { "title": "Advanced Computer Vision",            "institution": "University of Bonn",   "level": "Graduate" },
+    { "title": "Recent Advances in Machine Learning", "institution": "University of Siegen", "level": "Graduate" },
+    { "title": "Deep Learning",                       "institution": "University of Siegen", "level": "Graduate" },
+    { "title": "Seminar Data Science",                "institution": "University of Siegen", "level": "UG + Grad" }
+  ]
+}

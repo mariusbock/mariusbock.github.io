@@ -1,0 +1,46 @@
+{
+  "awards": [
+    {
+      "year": "2025",
+      "emoji": "🏆",
+      "title": "1st Prize - ZESS PhD Research-Forum Lightning Talks",
+      "org": "Center for Sensor Systems (ZESS), University of Siegen"
+    },
+    {
+      "year": "2021",
+      "emoji": "🏆",
+      "title": "Best Paper Award - Improving Deep Learning for HAR with shallow LSTMs",
+      "org": "ACM International Symposium on Wearable Computers (ISWC) 2021"
+    },
+    {
+      "year": "2021",
+      "emoji": "🎓",
+      "title": "House of Young Talents - Young Academy ",
+      "org": "3-year funded PhD scholarship, University of Siegen"
+    },
+    {
+      "year": "2021",
+      "emoji": "🎓",
+      "title": "ZESS Stipend Award",
+      "org": "6-month PhD scholarship, Center for Sensor Systems (ZESS), University of Siegen"
+    },
+    {
+      "year": "2020",
+      "emoji": "🏆",
+      "title": "W&W Prize for Outstanding Master Thesis",
+      "org": "DWS Group, University of Mannheim"
+    },
+    {
+      "year": "2017",
+      "emoji": "🎓",
+      "title": "DAAD RISE Worldwide Scholarship",
+      "org": "German Academic Exchange Service (DAAD); Research stay at Yale University"
+    },
+    {
+      "year": "2015",
+      "emoji": "🏆",
+      "title": "Dean's List Award (top 5% of graduating class)",
+      "org": "WiSo faculty at the University of Cologne"
+    }
+  ]
+}

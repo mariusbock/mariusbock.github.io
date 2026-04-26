@@ -1,0 +1,9 @@
+{
+  "talks": [
+    { "year": 2025, "date_short": "Aug 2025", "title": "On the Complementarity of Video and Inertial Data for Human Activity Recognition", "type": "Invited Talk", "venue": "University of Bonn", "location": "Bonn, Germany", "links": [] },
+    { "year": 2025, "date_short": "Mar 2025", "title": "On the Complementarity of Video and Inertial Data for Human Activity Recognition", "type": "Invited Talk", "venue": "Google Inc.", "location": "London, England", "links": [] },
+    { "year": 2023, "date_short": "Dec 2023", "title": "Temporal Action Localization for Inertial-based HAR", "type": "Invited Talk", "venue": "Karlsruhe Institute of Technology", "location": "Karlsruhe, Germany", "links": [{ "label": "Video", "url": "https://youtu.be/1uulSdrcfe4" }] },
+    { "year": 2023, "date_short": "Sep 2023", "title": "WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition", "type": "Invited Talk", "venue": "University of Cambridge", "location": "Cambridge, England", "links": [{ "label": "Video", "url": "https://youtu.be/kzRCN4S8KXk" }] },
+    { "year": 2023, "date_short": "Sep 2023", "title": "WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition", "type": "Invited Talk", "venue": "University of Sussex", "location": "Brighton, England", "links": [] }
+  ]
+}

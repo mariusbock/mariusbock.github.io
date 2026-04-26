@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "category": "Workshop Organisation",
+      "title": "Learning to Sense @ NeurIPS 2025",
+      "detail": "Co-organizer of the Learning to Sense workshop at NeurIPS 2025, bringing together researchers on sensor-based learning."
+    },
+    {
+      "category": "Challenge Organisation",
+      "title": "WEAR Dataset Challenge @ HASCA",
+      "detail": "Organised three editions of the WEAR Benchmark Challenge at the HASCA workshop, UbiComp/ISWC, with participants from across the globe."
+    },
+    {
+      "category": "Technical Program Committee",
+      "title": "ISWC",
+      "detail": "TPC Member for the ACM International Symposium on Wearable Computers (ISWC) since 2024."
+    },
+    {
+      "category": "Technical Program Committee",
+      "title": "UbiSense Workshop @ UbiComp/ISWC 2025",
+      "detail": "TPC Member for the UbiSense Workshop at the ACM International Joint Conference on Pervasive and Ubiquitous Computing."
+    },
+    {
+      "category": "Conference & Journal Reviewing",
+      "title": "Regular reviewer for top-tier venues in machine learning and pervasive computing",
+      "detail": "IMWUT, NeurIPS, ICCV, ECCV, WACV, CVPR, ISWC, PerCom, KDD, BMVC, Nature Scientific Reports, Nature Artificial Intelligence, Sensors, and more."
+    }
+  ]
+}
