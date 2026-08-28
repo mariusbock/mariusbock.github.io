@@ -1,7 +1,7 @@
 {
   "publications": [
     {
-      "year": 2026, "highlight": false,
+      "year": 2026, "highlight": true,
       "title": "DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition",
       "authors_html": "<b>Marius Bock</b>, Michael Moeller, Kristof Van Laerhoven",
       "venue": "ISWC 2026",
@@ -57,7 +57,7 @@
       "links": [{ "label": "Paper", "url": "https://doi.org/10.1145/3699770" }, { "label": "arXiv", "url": "https://arxiv.org/abs/2311.15831" }, { "label": "GitHub", "url": "https://github.com/mariusbock/tal_for_har" }]
     },
     {
-      "year": 2024, "highlight": true,
+      "year": 2024, "highlight": false,
       "title": "Weak-Annotation of HAR Datasets using Vision Foundation Models",
       "authors_html": "<b>Marius Bock</b>, Kristof Van Laerhoven, Michael Moeller",
       "venue": "ISWC 2024",
