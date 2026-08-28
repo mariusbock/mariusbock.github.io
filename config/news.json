@@ -1,7 +1,7 @@
 {
   "news": [
     { "date": "Aug 2026", "text_before": "Paper ", "link_text": "DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activtiy Recognition", "link": "https://arxiv.org/abs/2505.20894", "text_after": " accepted at ISWC 2026." },    
-    { "date": "Apr 2026", "text_before": "I started my role as Managing Coordinator for the newly established", "link_text": "ELLIS Unit NRW", "link": "https://ellis-unit-nrw.github.io/", "text_after": "." },
+    { "date": "Apr 2026", "text_before": "I started my role as Managing Coordinator for the newly established ", "link_text": "ELLIS Unit NRW", "link": "https://ellis-unit-nrw.github.io/", "text_after": "." },
     { "date": "Apr 2026", "text_before": "The ", "link_text": "3rd WEAR Challenge", "link": "https://mariusbock.github.io/wear/challenge.html", "text_after": " has started! Hosted again at HASCA." },
     { "date": "Apr 2026", "text_before": "I once again will join the ISWC Technical Program Committee for ", "link_text": "ISWC 2026", "link": "https://www.iswc.net", "text_after": "." },
     { "date": "Jan 2026", "text_before": "I started a position as a Postdoctoral Researcher at the University of Bonn under the supervision of", "link_text": "   Prof. Dr. Jürgen Gall", "link": "https://pages.iai.uni-bonn.de/gall_juergen/", "text_after": "." },
